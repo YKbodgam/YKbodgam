@@ -66,30 +66,30 @@ Let’s connect and create something extraordinary!
         title="All Repositories"
         src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" /></a>
 
-#
+---
 
 <details open>
     <summary>
         <h2>📊 Stats and Activity</h2>
     </summary>
 
-<h3>🔥 Streak Stats</h3>
+<!-- <
+
+h3>🔥 Streak Stats</>
 
 <p>
     <a href="https://git.io/streak-stats"><img
             src="https://streak-stats.demolab.com?user=YKbodgam&theme=monokai-metallian&hide_border=true&short_numbers=true"
             alt="GitHub Streak" /></a>
-</p>
+</p> 
+
+-->
 
 <h3>💻 GitHub Profile Stats</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="YKbodgam's Github Stats"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=YKbodgam&show_icons=true&include_all_commits=truecount_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
-        height="192px" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="YKbodgam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=YKbodgam&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="YKbodgam's Top Languages"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YKbodgam&langs_count=8&layout=compacttheme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
-        height="192px" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="YKbodgam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YKbodgam&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 <br />
 
