@@ -16,7 +16,7 @@ Let’s connect and create something extraordinary!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/yahya-bodgamwala/">
-        <img width="30px" alt="LinkedIn" title="LinkedIn"
+        <img width="28px" alt="LinkedIn" title="LinkedIn"
             src="https://i.imgur.com/yRpa1dQ.png" /></a>
     <a href="https://github.com/YKbodgam?tab=followers">
         <img alt="followers" title="Follow me on Github"
@@ -29,7 +29,6 @@ Let’s connect and create something extraordinary!
 
 ---
 
-#
 
 ### 🧰 Languages and Tools
 
@@ -61,8 +60,6 @@ Let’s connect and create something extraordinary!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-#
 
 <br />
 
