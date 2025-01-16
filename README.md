@@ -16,13 +16,16 @@ Let’s connect and create something extraordinary!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/yahya-bodgamwala/">
-        <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" /></a>
+        <img width="28px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" /></a>
     <a href="https://github.com/YKbodgam?tab=followers">
         <img alt="followers" title="Follow me on Github"
             src="https://custom-icon-badges.demolab.com/github/followers/YKbodgam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
     <a href="https://github.com/YKbodgam?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub"
             src="https://custom-icon-badges.demolab.com/github/stars/YKbodgam?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
+    <a href="https://github.com/YKbodgam">
+        <img alt="views" title="GitHub profile views" src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=YKbodgam&style=for-the-badge&color=yellow&base=85&abbreviated=true"/></a>
+
 </p>
 
 ---
@@ -73,21 +76,17 @@ Let’s connect and create something extraordinary!
         <h2>📊 Stats and Activity</h2>
     </summary>
 
-<!-- <
-
-h3>🔥 Streak Stats</>
+<h3>🔥 Streak Stats</h3>
 
 <p>
-    <a href="https://git.io/streak-stats"><img
-            src="https://streak-stats.demolab.com?user=YKbodgam&theme=monokai-metallian&hide_border=true&short_numbers=true"
-            alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YKbodgam&theme=monokai-metallian&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p> 
 
--->
 
 <h3>💻 GitHub Profile Stats</h3>
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 12px; align-items: center;">
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="YKbodgam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=YKbodgam&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
@@ -96,6 +95,10 @@ h3>🔥 Streak Stats</>
     <img alt="YKbodgam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YKbodgam&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   </a>
 </div>
+
+<br />
+
+<p align="left"> <a href="https://github.com/YKbodgam"><img src="https://github-profile-trophy.vercel.app/?username=YKbodgam&theme=monokai&title=-Issues,-PullRequest,-Reviews&margin-w=10" alt="YKbodgam" /></a> </p>
 
 <br />
 
