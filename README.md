@@ -1,21 +1,37 @@
-# 🏄🏻‍♂️ Crimson Dev❗
+<h1 align="center"> Hi 👋🏻, I'm Yahya Bodgam❗</br> </h1>
 
-**`Digital Craftsman (🚀 Flutter Developer | Full-Stack Developer | App Innovator | Innovative Problem Solver )`**
+<p align="center">Turning imagination into reality 🚀</p>
 
-I am a results-driven full-stack developer with advanced expertise in Flutter, Python, and JavaScript. I craft scalable,
-user-centric mobile apps with Flutter. I specialize in creating high-performance, scalable applications with intuitive
-UI/UX and powerful backends powered by Firebase, Supabase, and REST APIs. Known for delivering clean, efficient code and
-innovative solutions, I thrive in fast-paced environments and bring ideas to life with precision and creativity. Beyond
-coding, I’m a proactive problem-solver, effective communicator, and collaborative team player. I excel at translating
-complex ideas into user-friendly solutions and thrive in dynamic environments where innovation drives impact. Committed
-to delivering value, I bring creativity, adaptability, and integrity to every project.
+<p align="center">
+<a href="https://play.google.com/store/apps/dev?id=6621369044650584124" target="_blank"><img alt="" src="https://img.shields.io/badge/PlayStore-000?logo=GooglePlay&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" />
+</a>
+<a href="www.linkedin.com/in/crimsondev" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=LinkedIn&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/ykbodgam?igsh=a3Z5cjJxNjMzaDJn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+</p>
 
-Let’s connect and create something extraordinary!
+**`Digital Craftsman (🚀 Flutter Developer | Full-Stack Developer | Mobile App Architect | Innovative Problem Solver )`**
+
+Transforming ideas into high-performance mobile experiences with Flutter. Specialized in building scalable applications with real-time features, achieving 40% performance improvements and 35% higher user engagement through optimized architectures.
+
+🎯 Core Strengths:
+• Enterprise-grade Flutter apps with Firebase & REST APIs
+• Real-time systems & WebSocket integration
+• CI/CD pipelines & Docker containerization
+• Location services & mapping solutions
+• Secure authentication & payment systems
+• Multi-language support & internationalization
+• Gen AI integration & image processing
+
+🏆 National Finalist at Smart India Hackathon 2024
+📱 Published apps on Play Store
+🔧 Open-source contributor
+
+Let's build something amazing together! 💻
 
 <!-- Social icons section -->
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/yahya-bodgamwala/">
+    <a href="www.linkedin.com/in/crimsondev/">
         <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" /></a>
     <a href="https://github.com/YKbodgam?tab=followers">
         <img alt="followers" title="Follow me on Github"
@@ -30,37 +46,77 @@ Let’s connect and create something extraordinary!
 
 ---
 
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Android" width="30px" style="padding-right:10px;"
+<p align="left">
+
+<img align="left" alt="Android" width="40" height="40" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-<img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;"
+
+<img align="left" alt="AndroidStudio" width="40" height="40" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;"
+
+<img align="left" alt="Flutter" width="40" height="40" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img img align="left" alt="Supabase" width="30px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-<img img align="left" alt="Firebase" width="30px" style="padding-right:10px;"
+
+<img align="left" alt="dart" width="40" height="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"  />
+
+<img align="left" alt="Firebase" width="40" height="40" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;"
+
+<img align="left" alt="Supabase" width="40" height="40" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+
+<img align="left" alt="NodeJS" width="40" height="40" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;"
+
+<img align="left" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
+
+<img align="left" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
+
+<img align="left" alt="docker" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+
+<img align="left" alt="postman" width="40" height="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  />
+
+<img align="left" alt="figma" width="40" height="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+
+<img align="left" alt="Git" width="40" height="40" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="Linux" width="40" height="40" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<img align="left" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"/>
+
+<img align="left" width="40" height="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop"/>
+
+<img align="left" alt="HTML" width="40" height="40" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+<img align="left" alt="CSS" width="40" height="40" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+<img align="left" alt="JavaScript" width="40" height="40" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<img align="left" alt="Python" width="40" height="40" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
+
+<img align="left" alt="Django" width="40" height="40" style="padding-right:10px;"
+    src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+
+<img align="left" alt="GitHub" width="40" height="40" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+</p>
+
+<br />
 <br />
 
 #
@@ -95,7 +151,7 @@ Let’s connect and create something extraordinary!
   </a>
 </div>
 
-<br />
+![](https://github-contributor-stats.vercel.app/api?username=YKbodgam&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 <p align="center"> <a href="https://github.com/YKbodgam"><img src="https://github-profile-trophy.vercel.app/?username=YKbodgam&theme=monokai&title=-Issues,-PullRequest,-Reviews&margin-w=10" alt="YKbodgam" /></a> </p>
 
@@ -108,24 +164,3 @@ experience or skill level.
             src="https://github-readme-activity-graph.vercel.app/graph/?username=YKbodgam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-
-#
-
-<details>
-    <summary>
-        <h3>👨‍💻 YKbodgam's Coding Journey</h3>
-    </summary>
-
-I’m a passionate and results-driven Full-Stack Developer with advanced expertise in Flutter, Python, and JavaScript, dedicated to building scalable, high-performance applications that solve real-world problems. My coding journey began with a deep curiosity for technology, evolving into a career focused on creating impactful digital solutions.
-
-Throughout my journey, I’ve successfully developed diverse applications across various domains. Notable projects include Beginity, a comprehensive School ERP app designed to simplify academic management and student engagement, and Peece, a safety and navigation app that helps women locate safe facilities using Google APIs and Firebase. I’ve also built a feature-rich YouTube clone optimized for performance with streamlined API handling and scalable backends powered by Supabase. My work spans social media platforms, ERP solutions, and location-based services, showcasing my ability to adapt and deliver across different industries.
-
-On the technical side, I specialize in crafting seamless UI/UX designs and integrating robust backends using tools like Firebase, Supabase, and REST APIs. I focus on writing clean, efficient, and maintainable code, ensuring each project is scalable and user-centric. My expertise extends to optimizing data structures, handling real-time databases, and implementing secure authentication systems.
-
-Beyond my technical skills, I’m a proactive problem-solver and a collaborative team player. I excel at translating complex ideas into intuitive, functional solutions while maintaining a clear focus on user experience. My strong communication skills allow me to effectively collaborate with both technical and non-technical teams, ensuring project goals are met with precision and creativity.
-
-Driven by innovation and a commitment to continuous learning, I thrive in dynamic environments where technology is used to make a real impact. I’m always exploring new tools, frameworks, and best practices to stay ahead in the rapidly evolving tech landscape.
-
-Looking ahead, my goal is to contribute to innovative projects that drive positive change, blending technology with meaningful solutions. Let’s connect and build something extraordinary!
-
-[linkedin]: https://www.linkedin.com/in/yahya-bodgamwala
