@@ -2,6 +2,10 @@
 
 <br />
 
+<p align="center">
+<img src="https://i.imgur.com/kdKhgx6.gif" width="200px" align="center">
+</p>
+
 <p align="center">Turning imagination into reality 🚀</p>
 
 <p align="center">
