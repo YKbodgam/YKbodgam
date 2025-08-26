@@ -1,10 +1,10 @@
-<h1 align="center"> Hi 👋🏻, I'm Yahya Bodgam❗</h1>
+<h1 align="center"> Hi <img src="assets/wave.gif" alt="hi"  width=50 height=40 /> , I'm Yahya Bodgam❗</h1>
 
 <br />
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://i.imgur.com/kdKhgx6.gif" width="200px" align="center">
-</p>
+</p> -->
 
 <p align="center">Turning imagination into reality 🚀</p>
 
@@ -170,3 +170,5 @@ Let's build something amazing together! 💻
             src="https://github-readme-activity-graph.vercel.app/graph/?username=YKbodgam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
+
+![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)
