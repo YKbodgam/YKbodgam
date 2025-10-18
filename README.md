@@ -21,6 +21,22 @@
             style="vertical-align:center" /></a>
 </p>
 
+<br />
+
+<p align="center">
+    <a href="https://www.youtube.com/@CrimsonDev-yk?sub_confirmation=1">
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <a href="https://www.youtube.com/@CrimsonDev-yk">
+        <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+    <a href="https://github.com/YKbodgam?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YKbodgam?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a href="https://github.com/YKbodgam?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YKbodgam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/YKbodgam">
+        <img
+            src="https://komarev.com/ghpvc/?username=YKbodgam&style=for-the-badge&color=yellow&base=85&abbreviated=true" /></a>
+</p>
+
 **`Digital Craftsman (🚀 Flutter Developer | Full-Stack Developer | Mobile App Architect | Innovative Problem Solver
 )`**
 
@@ -43,23 +59,6 @@ Transforming ideas into high-performance mobile experiences with Flutter. Specia
 - Open-source contributor
 
 Let's build something amazing together! 💻
-
-<!-- Social icons section -->
-
-<p align="left">
-    <a href="www.linkedin.com/in/crimsondev/">
-        <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" /></a>
-    <a href="https://github.com/YKbodgam?tab=followers">
-        <img alt="followers" title="Follow me on Github"
-            src="https://custom-icon-badges.demolab.com/github/followers/YKbodgam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
-    <a href="https://github.com/YKbodgam?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/YKbodgam?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
-    <a href="https://github.com/YKbodgam">
-        <img
-            src="https://komarev.com/ghpvc/?username=YKbodgam&style=for-the-badge&color=yellow&base=85&abbreviated=true" /></a>
-
-</p>
 
 ---
 
