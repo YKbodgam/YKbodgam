@@ -6,7 +6,14 @@
 <img src="https://i.imgur.com/kdKhgx6.gif" width="200px" align="center">
 </p> -->
 
-<p align="center">Turning imagination into reality 🚀</p>
+<!-- <p align="center">Turning imagination into reality 🚀</p> -->
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Turning+imagination+into+reality+🚀;+Full-Stack+App+Developer;Mobile+App+Architect;Innovative+Problem+Solver)](https://git.io/typing-svg)
+
+</p>
 
 <p align="center">
     <a href="https://play.google.com/store/apps/dev?id=6621369044650584124"><img alt=""
@@ -26,8 +33,6 @@
 <p align="center">
     <a href="https://www.youtube.com/@CrimsonDev-yk?sub_confirmation=1">
         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-    <a href="https://www.youtube.com/@CrimsonDev-yk">
-        <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
     <a href="https://github.com/YKbodgam?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YKbodgam?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     <a href="https://github.com/YKbodgam?tab=followers">
