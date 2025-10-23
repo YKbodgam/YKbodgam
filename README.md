@@ -9,7 +9,6 @@
 <!-- <p align="center">Turning imagination into reality 🚀</p> -->
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/YKbodgam">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&height=45&lines=Turning+imagination+into+reality+🚀;+Full-Stack+App+Developer;Mobile+App+Architect;Innovative+Problem+Solver" /></a>
 </p>
@@ -126,11 +125,30 @@ Let's build something amazing together! 💻
 ---
 
 <details open>
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+
+  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
+
+  <!-- prettier-ignore-start -->
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+  <!-- prettier-ignore-end -->
+
+---
+
+<details open>
     <summary>
         <h2>📊 Stats and Activity</h2>
     </summary>
 
 <h3>🔥 Streak Stats</h3>
+
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
 
 <p>
         <a href="https://github.com/YKbodgam"><img
