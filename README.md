@@ -137,6 +137,8 @@ Let's build something amazing together! 💻
 
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
+  
+</details>  
 
 ---
 
