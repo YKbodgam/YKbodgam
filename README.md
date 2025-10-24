@@ -134,7 +134,18 @@ Let's build something amazing together! 💻
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-
+<a href="https://www.youtube.com/watch?v=HERj7lzwuqc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HERj7lzwuqc&title=%F0%9F%9A%8D+Where+is+My+Bus+%7C+Ending+the+Wait%2C+One+Ride+at+a+Time+%7C+SIH+2025+%7C+PS+25013+%7C+Binary+Brains&lang=en&timestamp=1760801708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=467">
+    <img src="https://ytcards.demolab.com/?id=HERj7lzwuqc&title=%F0%9F%9A%8D+Where+is+My+Bus+%7C+Ending+the+Wait%2C+One+Ride+at+a+Time+%7C+SIH+2025+%7C+PS+25013+%7C+Binary+Brains&lang=en&timestamp=1760801708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=467" alt="🚍 Where is My Bus | Ending the Wait, One Ride at a Time | SIH 2025 | PS 25013 | Binary Brains" title="🚍 Where is My Bus | Ending the Wait, One Ride at a Time | SIH 2025 | PS 25013 | Binary Brains">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=s4v-3Skiou8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s4v-3Skiou8&title=Asha+Care+App+Demo+%7C+Empowering+Rural+Healthcare%2C+One+Village+at+a+Time+%7C+Smart+India+Hackathon+2025&lang=en&timestamp=1760801154&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=983">
+    <img src="https://ytcards.demolab.com/?id=s4v-3Skiou8&title=Asha+Care+App+Demo+%7C+Empowering+Rural+Healthcare%2C+One+Village+at+a+Time+%7C+Smart+India+Hackathon+2025&lang=en&timestamp=1760801154&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=983" alt="Asha Care App Demo | Empowering Rural Healthcare, One Village at a Time | Smart India Hackathon 2025" title="Asha Care App Demo | Empowering Rural Healthcare, One Village at a Time | Smart India Hackathon 2025">
+  </picture>
+</a>
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
   
