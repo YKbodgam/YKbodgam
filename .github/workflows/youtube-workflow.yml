@@ -8,48 +8,43 @@ on:
   schedule:
     - cron: "*/30 * * * *"
 
-
   push:
     branches:
       - main
-    paths:
-      - ".github/workflows/youtube-cards.yml"
   workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false   # prevent checkout from using GITHUB_TOKEN
-
-      - name: Generate YouTube cards (output-only)
-        id: generate
-        uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        id: youtube-cards
         with:
           channel_id: UCnFhvGX0swasc6dUlEsG1pQ
           comment_tag_name: YOUTUBE-CARDS
-          max_title_lines: 2
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
+          max_title_lines: 2
           output_type: html
-          output_only: "true"
+
+      - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
+        shell: bash
 
       # - name: Write generated output to file
       #   run: |
       #     # Ensure multi-line content is preserved
       #     printf '%s' "${{ steps.generate.outputs.markdown }}" > youtube-cards.html
 
-      - name: Commit and push using GITHUB_TOKEN
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add youtube-cards.html
-          git commit -m "Update YouTube cards (automated)" || echo "No changes to commit"
-          # Replace remote auth with provided token and push to main
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-          git push origin HEAD:main
+      # - name: Commit and push using GITHUB_TOKEN
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   run: |
+      #     git config user.name "github-actions[bot]"
+      #     git config user.email "github-actions[bot]@users.noreply.github.com"
+      #     git add youtube-cards.html
+      #     git commit -m "Update YouTube cards (automated)" || echo "No changes to commit"
+      #     # Replace remote auth with provided token and push to main
+      #     git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+      #     git push origin HEAD:main
