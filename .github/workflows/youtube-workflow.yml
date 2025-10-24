@@ -1,27 +1,33 @@
 name: GitHub Readme YouTube Cards
+
 on:
   # schedule:
   #   # Runs every hour, on the hour
   #   - cron: "0 * * * *"
 
   schedule:
-    # Runs every 30 minutes
     - cron: "*/30 * * * *"
 
+
   push:
-    # run when the workflow file is modified
     branches:
       - main
     paths:
       - ".github/workflows/youtube-cards.yml"
-  # run when dispatched from actions tab
   workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false   # prevent checkout from using GITHUB_TOKEN
+
+      - name: Generate YouTube cards (output-only)
+        id: generate
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCnFhvGX0swasc6dUlEsG1pQ
           comment_tag_name: YOUTUBE-CARDS
@@ -29,3 +35,21 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
           output_type: html
+          output_only: "true"
+
+      - name: Write generated output to file
+        run: |
+          # Ensure multi-line content is preserved
+          printf '%s' "${{ steps.generate.outputs.markdown }}" > youtube-cards.html
+
+      - name: Commit and push using GITHUB_TOKEN
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add youtube-cards.html
+          git commit -m "Update YouTube cards (automated)" || echo "No changes to commit"
+          # Replace remote auth with PAT and push to main
+          git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}.git
+          git push origin HEAD:main

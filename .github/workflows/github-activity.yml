@@ -17,5 +17,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
