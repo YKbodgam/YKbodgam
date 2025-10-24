@@ -1,50 +1,50 @@
-name: GitHub Readme YouTube Cards
+# name: GitHub Readme YouTube Cards
 
-on:
-  # schedule:
-  #   # Runs every hour, on the hour
-  #   - cron: "0 * * * *"
+# on:
+#   # schedule:
+#   #   # Runs every hour, on the hour
+#   #   - cron: "0 * * * *"
 
-  schedule:
-    - cron: "*/30 * * * *"
+#   schedule:
+#     - cron: "*/30 * * * *"
 
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+#   push:
+#     branches:
+#       - main
+#   workflow_dispatch:
 
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        id: youtube-cards
-        with:
-          channel_id: UCnFhvGX0swasc6dUlEsG1pQ
-          comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
-          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
-          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
-          max_title_lines: 2
-          output_type: html
+# jobs:
+#   deploy:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: DenverCoder1/github-readme-youtube-cards@main
+#         id: youtube-cards
+#         with:
+#           channel_id: UCnFhvGX0swasc6dUlEsG1pQ
+#           comment_tag_name: YOUTUBE-CARDS
+#           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+#           show_duration: true
+#           theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+#           theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
+#           max_title_lines: 2
+#           output_type: html
 
-      - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
-        shell: bash
+#       - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
+#         shell: bash
 
-      # - name: Write generated output to file
-      #   run: |
-      #     # Ensure multi-line content is preserved
-      #     printf '%s' "${{ steps.generate.outputs.markdown }}" > youtube-cards.html
+#       # - name: Write generated output to file
+#       #   run: |
+#       #     # Ensure multi-line content is preserved
+#       #     printf '%s' "${{ steps.generate.outputs.markdown }}" > youtube-cards.html
 
-      # - name: Commit and push using GITHUB_TOKEN
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   run: |
-      #     git config user.name "github-actions[bot]"
-      #     git config user.email "github-actions[bot]@users.noreply.github.com"
-      #     git add youtube-cards.html
-      #     git commit -m "Update YouTube cards (automated)" || echo "No changes to commit"
-      #     # Replace remote auth with provided token and push to main
-      #     git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-      #     git push origin HEAD:main
+#       # - name: Commit and push using GITHUB_TOKEN
+#       #   env:
+#       #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       #   run: |
+#       #     git config user.name "github-actions[bot]"
+#       #     git config user.email "github-actions[bot]@users.noreply.github.com"
+#       #     git add youtube-cards.html
+#       #     git commit -m "Update YouTube cards (automated)" || echo "No changes to commit"
+#       #     # Replace remote auth with provided token and push to main
+#       #     git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+#       #     git push origin HEAD:main
