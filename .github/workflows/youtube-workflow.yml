@@ -1,8 +1,13 @@
 name: GitHub Readme YouTube Cards
 on:
+  # schedule:
+  #   # Runs every hour, on the hour
+  #   - cron: "0 * * * *"
+
   schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    # Runs every 30 minutes
+    - cron: "*/30 * * * *"
+
   push:
     # run when the workflow file is modified
     branches:

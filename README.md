@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/YKbodgam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&height=45&lines=Turning+imagination+into+reality+🚀;+Full-Stack+App+Developer;Mobile+App+Architect;Innovative+Problem+Solver" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Turning+imagination+into+reality+🚀;+Full-Stack+App+Developer;Mobile+App+Architect;Innovative+Problem+Solver(https://git.io/typing-svg)" /></a>
 </p>
 
 <p align="center">
