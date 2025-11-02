@@ -1,9 +1,6 @@
 name: GitHub - Activity - Readme
 
 on:
-  # schedule:
-  #   - cron: "0 21 * * *"
-
   schedule:
     # Runs every 30 minutes
     - cron: "*/30 * * * *"

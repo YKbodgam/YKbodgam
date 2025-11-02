@@ -9,11 +9,8 @@
 <!-- <p align="center">Turning imagination into reality 🚀</p> -->
 
 <p align="center">
-    <a href="https://git.io/typing-svg" style="display:inline-block">
-        <img alt="Typing SVG"
-                 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=470&height=45&lines=Turning+imagination+into+reality+🚀;+Full-Stack+App+Developer;Mobile+App+Architect;Innovative+Problem+Solver"
-                 style="display:block;margin:0 auto;max-width:100%;"/>
-    </a>
+    <img alt="Typing SVG"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=470&height=45&lines=Turning+imagination+into+reality+🚀;+Full-Stack+App+Developer;Mobile+App+Architect;Innovative+Problem+Solver"/>
 </p>
 
 <p align="center">
