@@ -8,13 +8,7 @@
 
 <!-- <p align="center">Turning imagination into reality 🚀</p> -->
 
-<p align="center">
-    <a href="https://git.io/typing-svg" style="display:inline-block">
-        <img alt="Typing SVG"
-                 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&width=470&height=45&lines=Turning+imagination+into+reality+🚀;+Full-Stack+App+Developer;Mobile+App+Architect;Innovative+Problem+Solver"
-                 style="display:block;margin:0 auto;max-width:100%;"/>
-    </a>
-</p>
+<p align="center"> <a href="https://git.io/typing-svg" style="display:inline-block"> <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&width=470&height=45&lines=Turning%20imagination%20into%20reality%20%F0%9F%9A%80%3B%20Full-Stack%20App%20Developer%3B%20Mobile%20App%20Architect%3B%20Innovative%20Problem%20Solver" style="display:block;margin:0 auto;max-width:100%;"/> </a> </p>
 
 <p align="center">
     <a href="https://play.google.com/store/apps/dev?id=6621369044650584124"><img alt=""
